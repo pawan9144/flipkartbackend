@@ -1,0 +1,26 @@
+{
+    "cSpell.words": [
+        "angularjs",
+        "commitlint",
+        "cssnano",
+        "currentopening",
+        "fontawesome",
+        "formik",
+        "Formular",
+        "fortawesome",
+        "Laravel",
+        "MERN",
+        "Rajdhani",
+        "tailwindcss",
+        "thoughtwin"
+    ],
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+    ],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    }
+}
